@@ -1,0 +1,6 @@
+{
+  "name": "Palabras y Significados - Բառեր և Իմաստներ",
+  "description": "Իսպաներեն-հայերեն ինտերակտիվ ուսումնական ծրագիր՝ բառերի իմաստներ, կանոններ, հարց-պատասխան և ինտերակտիվ թարգմանություն։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
